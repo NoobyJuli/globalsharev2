@@ -23,7 +23,7 @@ const commands = [
          GlobalShare Commands
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        You can get more information about the commands on our new Documentation
+        You can get more information about the commands on our new <a className="text-white" href="https://globalshare.gitbook.io/globalshare/">Documentation</a>!
         </p>
 
         <div>
