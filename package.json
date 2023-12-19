@@ -1,5 +1,5 @@
 {
-    "name": "MusicMaker",
+    "name": "GlobalShare",
     "version": "5.0.0",
     "scripts": {
         "dev": "next dev",
