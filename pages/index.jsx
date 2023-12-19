@@ -91,9 +91,6 @@ Vote for GlobalShare</a>
                 </div>
                 <img src="https://cdn.discordapp.com/attachments/1152207240799985664/1186723282075009105/image.png?ex=6594492e&is=6581d42e&hm=3be5a9808b4c49924f937d83a53a94a7bf71e9e6e08c36323a037a6caa766b8e&" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
-      <a href="https://top.gg/bot/1100500027840929963">
-  <img src="https://top.gg/api/widget/1100500027840929963.svg">
-</a>
         </div>
 
       </>
