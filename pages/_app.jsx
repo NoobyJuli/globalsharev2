@@ -32,20 +32,6 @@ export default function AwardApp({ Component, pageProps }) {
       activeIcon: "fa fa-list-alt",
       href: "/commands",
     },
-    {
-      link: true,
-      name: "Support",
-      icon: "fab fa-discord",
-      activeIcon: "fab fa-discord",
-      href: "https://discord.gg/p6kWNE6kv9",
-    },
-    {
-      link: true,
-      name: "Add Bot",
-      icon: "fal fa-robot",
-      activeIcon: "fab fa-robot",
-      href: "https://discord.com/api/oauth2/authorize?client_id=1100500027840929963&permissions=259912895601&scope=applications.commands%20bot",
-    },
        {
       link: true,
       name: "Vote",
