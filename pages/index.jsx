@@ -13,23 +13,23 @@ export default function Index() {
           GlobalShare
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-       How about moderating your own server with MusicMaker? Create your own free world and create your own playlist, experience this pleasure with the best sounds. 
+       GlobalShare is a clear and easy to set up advertising bot with unique features.
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-            <Link href={"https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=applications.commands%20bot"}>
+            <Link href={"https://discord.com/api/oauth2/authorize?client_id=1100500027840929963&permissions=259912895601&scope=applications.commands%20bot"}>
               <a
                 className={
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
                 }
               >
-          Invite MusicMaker
+          Invite GlobalShare
               </a>
             </Link>
   <div className="py-10"></div>
-  <Link href={"https://top.gg/bot/774043716797071371/vote"}>
+  <Link href={"https://top.gg/bot/1100500027840929963/vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote MusicMaker</a>
+Vote for GlobalShare</a>
   </Link>
         </div>
 
@@ -48,7 +48,7 @@ Vote MusicMaker</a>
             <p className="text-white text-4xl font-bold" dangerouslySetInnerHTML={{ __html:"MusicMaker" }} />
             <p className="text-white text-md font-medium text-gray-500/75" dangerouslySetInnerHTML={{ __html: "How about creating the best environment to relax yourself with your own emotions?" }}/>
             <a href="https://discord.com/api/oauth2/authorize?client_id=774043716797071371&permissions=277028620608&scope=bot%20applications.commands" className={"mt-10 flex items-center px-4 justify-center gap-x-2 shadow-lg shadow-amber-600/20 cursor-pointer rounded-xl py-4 font-medium bg-gradient-to-r from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white"}>
-              <i className="fab fa-discord mr-2" />Invite MusicMaker
+              <i className="fab fa-discord mr-2" />Invite GlobalShare
             </a>
           </div>
 
@@ -56,26 +56,26 @@ Vote MusicMaker</a>
            
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimization</p>
-                  <p className="text-gray-500 line-clamp-4">With fast and customizable settings specific to your server, MusicMaker gives you a musical pleasure to the fullest.</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Customised setup</p>
+                  <p className="text-gray-500 line-clamp-4">GlobalShare offers numerous options for optimising your bump embed.</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
-                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Universal</p>
-                  <p className="text-gray-500 line-clamp-4">A bot that supports multi-platform music playback. (Spotify, Souncloud, YouTube) | (It is a bot that complies with all copyrights and licenses.)</p>
+                  <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Wide range</p>
+                  <p className="text-gray-500 line-clamp-4">With over 5000 users, GlobalShare has a large network of servers. Unlike other advertising bots, your adverts are sent to all servers. </p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-shield text-2xl text-amber-500`} /> Security</p>
-                  <p className="text-gray-500 line-clamp-4">An open source safe bot that you can browse and help us develop.</p>
+                  <p className="text-gray-500 line-clamp-4">GlobalShare has various security features to ensure that your server is not harmed by other users. We offer an ultra-fast reporting system, as well as increased security measures in our server rating tool.</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-ticket text-2xl text-amber-500`} /> Support</p>
-                  <p className="text-gray-500 line-clamp-4">With our best teammates, we provide the fastest response to anyone who needs help.</p>
+                  <p className="text-gray-500 line-clamp-4">Our small team of developers is constantly working on improving the bot and fixing bugs as quickly as possible. Ticket requests are usually processed within a few hours.</p>
                 </div>
               </div>
           </div>
@@ -87,10 +87,10 @@ Vote MusicMaker</a>
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://media.discordapp.net/attachments/907378577253744640/1176892776877666325/image.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
-                  <p className="text-3xl text-white font-semibold">Best Your Bot</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with MusicMaker, the best and most up-to-date bot?</p>
+                  <p className="text-3xl text-white font-semibold">🏆 Best Advertising Bot in 2023</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">The wide range of set-up options and simple design of our bot make GlobalShare the perfect advertising bot for your Discord server!</p>
                 </div>
-                <img src="https://media.discordapp.net/attachments/907378577253744640/1176892776877666325/image.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://cdn.discordapp.com/attachments/1152207240799985664/1186723282075009105/image.png?ex=6594492e&is=6581d42e&hm=3be5a9808b4c49924f937d83a53a94a7bf71e9e6e08c36323a037a6caa766b8e&" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
