@@ -101,7 +101,7 @@ export default function Footer() {
                         </p>
                         <div className="hidden md:flex items-center justify-center">
                                 <p className={"text-xs text-green-400"}>
-                                    GlobalShare is currently online and operating!
+                                    GlobalShare is currently online and operational!
                                 </p>
                         </div>
                         <p className="text-white text-center sm:text-right text-opacity-50">
