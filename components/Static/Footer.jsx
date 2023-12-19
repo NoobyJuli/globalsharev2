@@ -65,14 +65,14 @@ export default function Footer() {
                             <div>
                                 <Link href="https://globalshare.gitbook.io/globalshare/">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-github`} /> Documentation
+                                    <i className={`fa-brands fa-github`} /> Docs
                                     </a>
                                 </Link>
                             </div>
                             <div>
                                 <Link href="https://youtube.com/">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-youtube`} /> YouTube (soon)
+                                    <i className={`fa-brands fa-youtube`} /> YouTube
                                     </a>
                                 </Link>
                             </div>
