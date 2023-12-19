@@ -2,19 +2,19 @@ export default function Tos() {
   return (
     <div>
      <h2 className="mt-4 text-white font-bold text-3xl">Terms of Services</h2>
-      <p className="text-sm text-white/30 mb-1">Last Update: 20/05/2022 🆕️</p>
+      <p className="text-sm text-white/30 mb-1">Last Update: 19/12/2023</p>
   <div className="animateHeader text-white text-opacity-40 mt-5">
-<p>⊳ Every discord server can use the MusicMaker bot for free, it is completely prohibited to sell or market for a fee.</p>
+<p>⊳ Every discord server can use our advertising service for free.</p>
 <div className="py-3"></div>
-<p>⊳ You cannot use bot commands to harm the bot.</p>
+<p>⊳ It's strictly forbidden using GlobalShare or any other of our bots for producing spam or other dumb shit.</p>
 <div className="py-3"></div>
-<p>⊳ You may not use open source codes to harm other servers.</p>
+<p>⊳ Setting up 18+ servers on GlobalShare is also strictly against our tos and will be punished with a permanent ban.</p>
 <div className="py-3"></div>
-<p>⊳ You may not sell or market open source codes through other platforms.</p>
+<p>⊳ Using phishing links or other redirecting methods to bad webpages is also forbidden.</p>
 <div className="py-3"></div>
-<p>⊳ While using the bot, you cannot use it in a way that harms other users for troll purposes.</p>
+<p>⊳ Spamming commands (such as the report tool) will automatically cause a permanent ban from our services.</p>
 <div className="py-3"></div>
-<p>⊳ To use certain discord bot commands, you need to vote for the <a className="text-white" href="https://top.gg/bot/774043716797071371/vote">MusicMaker</a> bot at certain intervals.</p>
+<p>⊳ In order to execute some commands, you may have to vote for <a className="text-white" href="https://top.gg/bot/1100500027840929963/vote">GlobalShare</a> sometimes.</p>
 </div>
     </div>
   );
