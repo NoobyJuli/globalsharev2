@@ -95,5 +95,9 @@ Vote for GlobalShare</a>
         </div>
 
       </>
+
+	  <a href="https://top.gg/bot/1100500027840929963">
+  <img src="https://top.gg/api/widget/1100500027840929963.svg">
+</a>
   )
 }
