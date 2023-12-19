@@ -6,7 +6,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="apple-touch-icon" href="/logo.jpg" />
+          <link rel="apple-touch-icon" href="/newlogo.png" />
           <meta name="robots" content="index,follow" />
           <meta name="googlebot" content="index,follow" />
           <meta
@@ -21,14 +21,14 @@ class MyDocument extends Document {
           <meta property="og:title" content="GlobalShare" />
           <link
             rel="icon"
-            href="/img/logo2.png"
+            href="/img/newlogo.png"
             type="image/x-icon"
           />
           <meta
             property="og:description"
             content="It's time to grow your server!"
           />
-          <meta property="og:image" content="/img/logo.jpg" />
+          <meta property="og:image" content="/img/newlogo.png" />
           <meta property="og:image:alt" content="GlobalShare" />
           <meta property="og:locale" content="en_GB" />
           <meta
@@ -36,7 +36,7 @@ class MyDocument extends Document {
             content="GlobalShare"
           />
           <meta name="theme-color" content="#09e413" />
-          <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
+          <link rel="icon" href="/img/newlogo.png" type="image/x-icon" />
           <link
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
             rel="stylesheet"
