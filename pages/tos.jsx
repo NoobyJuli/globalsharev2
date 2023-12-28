@@ -8,7 +8,7 @@ export default function Tos() {
 
                   <p className="text-3xl text-white font-semibold">Acceptance of Terms</p>
                   <br/>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">By using our services, you agree to comply with our terms of use and to follow the instructions of our server team.</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">By using our services, you agree to comply with our terms of use and to follow the instructions of our server team. If you do <br/> not agree to these terms, please refrain from using our services.</p>
                 </div>
               </>
         </div>
