@@ -16,17 +16,29 @@ export default function Tos() {
 <div className="py-3"></div>
 <p>⊳ In order to execute some commands, you may have to vote for <a className="text-white" href="https://top.gg/bot/1100500027840929963/vote">GlobalShare</a> sometimes.</p>
 </div>
+      
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
 
-                  <p className="text-3xl text-white font-semibold">🏆 Best Advertising Bot in 2023</p>
+                  <p className="text-3xl text-white font-semibold">Acceptance of Terms</p>
                   <br/>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">The wide range of set-up options and simple design of our bot make GlobalShare the perfect advertising bot for your Discord server!</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">By using our services, you agree to comply with our terms of use and to follow the instructions of our server team.</p>
                 </div>
-
               </>
         </div>
+
+            <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
+              <>
+                <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
+
+                  <p className="text-3xl text-white font-semibold">Changes of Terms</p>
+                  <br/>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">GlobalShare Advertisements reserves the right to amend these Terms of Use at any time. You can inform yourself about any changes at any time on this page. Normally we inform our customers about changes made to the ToS on our Discord server.</p>
+                </div>
+              </>
+        </div>
+      
     </div>
   );
 }
