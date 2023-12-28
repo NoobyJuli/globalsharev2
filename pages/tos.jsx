@@ -39,14 +39,14 @@ export default function Tos() {
               </>
         </div>
 
-            <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex to-neutral-900/50 rounded-lg p-1 shadow-md">
+            <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
 
                   <p className="text-3xl text-white font-semibold">Use of GlobalShare Advertisements</p>
                   <br/>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">
-To use our advertising services, you must agree that data may be collected and published by the Discord server on which you advertise. Please refer to [link] to learn more. <br/>
+To use our advertising services, you must agree that data may be collected and published by the Discord server on which you advertise. <br/> Please refer to [link] to learn more. <br/>
 To use our advertising services, you must agree that data may be collected and published by the Discord server on which you advertise. <br/>
 We reserve the right to exclude you from our services at any time and without warning for any reason. <br/>
 Additionally, you must not engage in activities that could harm GlobalShare Advertisements.</p>
