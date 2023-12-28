@@ -1,7 +1,7 @@
 export default function Tos() {
   return (
     <div>
-     <h2 className="mt-4 text-white font-bold text-3xl">Terms of Services</h2>
+     <h2 className="mt-4 text-white font-bold text-3xl">Terms of Service</h2>
       <p className="text-sm text-white/30 mb-1">Last Update: 19/12/2023</p>
   <div className="animateHeader text-white mt-5">
 <p>⊳ Every discord server can use our advertising service for free.</p>
