@@ -3,7 +3,7 @@ export default function Tos() {
     <div>
      <h2 className="mt-4 text-white font-bold text-3xl">Terms of Services</h2>
       <p className="text-sm text-white/30 mb-1">Last Update: 19/12/2023</p>
-  <div className="animateHeader text-white text-opacity-40 mt-5">
+  <div className="animateHeader text-white mt-5">
 <p>⊳ Every discord server can use our advertising service for free.</p>
 <div className="py-3"></div>
 <p>⊳ It's strictly forbidden using GlobalShare or any other of our bots for producing spam or other dumb shit.</p>
