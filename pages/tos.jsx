@@ -34,7 +34,7 @@ export default function Tos() {
 
                   <p className="text-3xl text-white font-semibold">Changes of Terms</p>
                   <br/>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">GlobalShare Advertisements reserves the right to amend these Terms of Use at any time. You can inform yourself about any changes at any time on this page. Normally we inform our customers about changes made to the ToS on our Discord server.</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">GlobalShare Advertisements reserves the right to amend these Terms of Use at any time. You can inform yourself about any changes at <br/> any time on this page. Normally we inform our customers about changes made to the ToS on our Discord server.</p>
                 </div>
               </>
         </div>
