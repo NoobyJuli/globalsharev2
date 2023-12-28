@@ -16,6 +16,16 @@ export default function Tos() {
 <div className="py-3"></div>
 <p>⊳ In order to execute some commands, you may have to vote for <a className="text-white" href="https://top.gg/bot/1100500027840929963/vote">GlobalShare</a> sometimes.</p>
 </div>
+      <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
+              <>
+                <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
+                  <img src="https://cdn.discordapp.com/attachments/1152207240799985664/1186723282075009105/image.png?ex=6594492e&is=6581d42e&hm=3be5a9808b4c49924f937d83a53a94a7bf71e9e6e08c36323a037a6caa766b8e&"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
+                  <p className="text-3xl text-white font-semibold">🏆 Best Advertising Bot in 2023</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">The wide range of set-up options and simple design of our bot make GlobalShare the perfect advertising bot for your Discord server!</p>
+                </div>
+                <img src="https://cdn.discordapp.com/attachments/1152207240799985664/1186723282075009105/image.png?ex=6594492e&is=6581d42e&hm=3be5a9808b4c49924f937d83a53a94a7bf71e9e6e08c36323a037a6caa766b8e&" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+              </>
+        </div>
     </div>
   );
 }
