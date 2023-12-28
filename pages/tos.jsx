@@ -61,8 +61,8 @@ export default function Tos() {
                   <p className="text-3xl text-white font-semibold">Content of Advertisements</p>
                   <br/>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">
-                    Each user of our services is responsible for the content of their own advertising. GlobalShare Advertisements is not liable for the content of advertising texts. <br/>
-                    In order to protect our customers in the best possible way from advertising texts that disregard our guidelines, we offer the possibility to report the sender <br/>
+                    Each user of our services is responsible for the content of their own advertising. GlobalShare Advertisements is not liable for the content of <br/> advertising texts. 
+                    In order to protect our customers in the best possible way from advertising texts that disregard our guidelines, we offer the possibility to report <br/> the sender 
                     of these advertisements under each advertisement sent. <br/>
                     Click [here](link) to find out more about our content guidelines.</p>
                 </div>
