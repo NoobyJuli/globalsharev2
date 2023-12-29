@@ -7,16 +7,19 @@ import Router, { useRouter } from "next/router";
 
 import { Analytics } from '@vercel/analytics/react'; /// Anfang
  
-function MyApp({ Component, pageProps }) {
+export default function RootLayout({ children }) {
   return (
-    <>
-      <Component {...pageProps} />
-      <Analytics />
-    </>
+    <html lang="en">
+      <head>
+        <title>Next.js</title>
+      </head>
+      <body>
+        {children}
+        <Analytics />
+      </body>
+    </html>
   );
-}
- 
-export default MyApp; /// Ende
+} /// Ende
 
 import Head from "next/head";
 
