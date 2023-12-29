@@ -77,16 +77,18 @@ export default function AwardApp({ Component, pageProps }) {
   );
 }
 
-import type { AppProps } from 'next/app';
 import { Analytics } from '@vercel/analytics/react';
  
-function MyApp({ Component, pageProps }: AppProps) {
+export default function RootLayout({ children }) {
   return (
-    <>
-      <Component {...pageProps} />
-      <Analytics />
-    </>
+    <html lang="en">
+      <head>
+        <title>Next.js</title>
+      </head>
+      <body>
+        {children}
+        <Analytics />
+      </body>
+    </html>
   );
 }
- 
-export default MyApp;
