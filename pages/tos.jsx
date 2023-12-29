@@ -31,7 +31,7 @@ export default function Tos() {
                   <p className="text-3xl text-white font-semibold">Use of GlobalShare Advertisements</p>
                   <br/>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">
-                    To use our advertising services, you must agree that data may be collected and published by the Discord server on which you advertise. <br/> Please refer to [https://discord.gg/JwfQsfeFdN] to learn more. <br/>
+                    To use our advertising services, you must agree that data may be collected and published by the Discord server on which you advertise. <br/> Please refer to <a className="text-white" href="https://discord.gg/JwfQsfeFdN">GlobalShare Data Collection</a> to learn more. <br/>
                     To use our advertising services, you must agree that data may be collected and published by the Discord server on which you advertise. <br/>
                     We reserve the right to exclude you from our services at any time and without warning for any reason. <br/>
                     Additionally, you must not engage in activities that could harm GlobalShare Advertisements.</p>
@@ -49,7 +49,7 @@ export default function Tos() {
                     Each user of our services is responsible for the content of their own advertising. GlobalShare Advertisements is not liable for the content of <br/> advertising texts. 
                     In order to protect our customers in the best possible way from advertising texts that disregard our guidelines, we offer the <br/> possibility to report the sender 
                     of these advertisements under each advertisement sent. <br/>
-                    Click [here](https://discord.gg/JwfQsfeFdN) to find out more about our content guidelines.</p>
+                    Click <a className="text-white" href="https://discord.gg/JwfQsfeFdN">here</a> to find out more about our content guidelines.</p>
                 </div>
               </>
         </div>
