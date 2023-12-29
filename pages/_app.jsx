@@ -5,19 +5,6 @@ import "tailwindcss/tailwind.css";
 import NProgress from "nprogress";
 import Router, { useRouter } from "next/router";
 
-import { Analytics } from '@vercel/analytics/react';
- 
-function MyApp({ Component, pageProps }) {
-  return (
-    <>
-      <Component {...pageProps} />
-      <Analytics />
-    </>
-  );
-}
- 
-export default MyApp; /// Ende
-
 import Head from "next/head";
 
 import type { AppProps } from 'next/app';
