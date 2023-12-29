@@ -79,7 +79,6 @@ export default function AwardApp({ Component, pageProps }) {
     </div>
     </ThemeProvider>
   );
-}
 
 import { Analytics } from '@vercel/analytics/react';
  
@@ -93,3 +92,7 @@ function MyApp({ Component, pageProps }) {
 }
  
 export default MyApp;
+ 
+}
+
+
