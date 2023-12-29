@@ -4,10 +4,7 @@ import "../public/css/customColors.css";
 import "tailwindcss/tailwind.css";
 import NProgress from "nprogress";
 import Router, { useRouter } from "next/router";
-
 import Head from "next/head";
-
-import type { AppProps } from 'next/app';
 
 import Header from "../components/Static/Header.jsx";
 import Footer from "../components/Static/Footer.jsx";
