@@ -5,21 +5,18 @@ import "tailwindcss/tailwind.css";
 import NProgress from "nprogress";
 import Router, { useRouter } from "next/router";
 
-import { Analytics } from '@vercel/analytics/react'; /// Anfang
+import { Analytics } from '@vercel/analytics/react';
  
-export default function RootLayout({ children }) {
+function MyApp({ Component, pageProps }) {
   return (
-    <html lang="en">
-      <head>
-        <title>Next.js</title>
-      </head>
-      <body>
-        {children}
-        <Analytics />
-      </body>
-    </html>
+    <>
+      <Component {...pageProps} />
+      <Analytics />
+    </>
   );
-} /// Ende
+}
+ 
+export default MyApp; /// Ende
 
 import Head from "next/head";
 
