@@ -1,17 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
 
-function MyApp({ Component, pageProps }: AppProps) {
-  return (
-    <>
-      <Component {...pageProps} />
-      <Analytics />
-    </>
-  );
-}
- 
-export default MyApp;
-
 export default function Index() {
 	
   return (
