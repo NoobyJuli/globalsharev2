@@ -6,19 +6,6 @@ import NProgress from "nprogress";
 import Router, { useRouter } from "next/router";
 import Head from "next/head";
 
-import { Analytics } from '@vercel/analytics/react';
- 
-function MyApp({ Component, pageProps }) {
-  return (
-    <>
-      <Component {...pageProps} />
-      <Analytics />
-    </>
-  );
-}
- 
-export default MyApp;
-
 import Header from "../components/Static/Header.jsx";
 import Footer from "../components/Static/Footer.jsx";
 
@@ -90,4 +77,15 @@ export default function AwardApp({ Component, pageProps }) {
   );
 }
 
-
+import { Analytics } from '@vercel/analytics/react';
+ 
+function MyApp({ Component, pageProps }) {
+  return (
+    <>
+      <Component {...pageProps} />
+      <Analytics />
+    </>
+  );
+}
+ 
+export default MyApp;
